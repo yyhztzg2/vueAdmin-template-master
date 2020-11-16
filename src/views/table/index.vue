@@ -44,7 +44,7 @@ export default {
     return {
       list: null,
       listLoading: true,
-      asasasa:'aaaaaaaaaaaa'
+      asasasa:'aaaaaaa2222aaaaa'
     }
   },
   filters: {
