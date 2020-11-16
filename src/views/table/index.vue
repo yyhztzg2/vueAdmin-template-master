@@ -43,7 +43,8 @@ export default {
   data() {
     return {
       list: null,
-      listLoading: true
+      listLoading: true,
+      asasasa:'aaaaaaaaaaaa'
     }
   },
   filters: {
