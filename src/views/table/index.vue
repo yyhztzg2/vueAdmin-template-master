@@ -11,7 +11,7 @@
           {{scope.row.title}}
         </template>
       </el-table-column>
-      <el-table-column label="Author" width="110" align="center">
+      <el-table-column label="Author" width="111" align="center">
         <template slot-scope="scope">
           <span>{{scope.row.author}}</span>
         </template>
